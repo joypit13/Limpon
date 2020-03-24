@@ -420,6 +420,18 @@ a.video-app {
     top: 52px;
     right: 225px;
 }
+.intro {
+    color: rgba(0, 0, 0, 0.04);
+    font-size: 300px;
+    font-weight: 900;
+    line-height: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 150px;
+    text-align: center;
+    margin: 0;
+}
 .flex-analytics, .flex-up{
     display: flex;
     justify-content: space-between;
